@@ -34,3 +34,4 @@ Results
 Achieved strong accuracy in classifying MRI images.
 
 Demonstrated potential use of DL in real-world medical applications.
+### DATASET URL : https://www.kaggle.com/code/abdocan/brain-tumor-classification-pytorch-99-7-test/input
